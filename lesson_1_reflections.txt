@@ -1,0 +1,13 @@
+My thoughts about this lesson so far is that it is very basic and so I am hoping that this changes in the near future.
+
+Having version control provides very easy access to the older versions thereby saving time and a lot of effort to manually perform primitive version control.
+
+Manually choosing when to commit is a judgement call which every person has to decide based on their intuition and the "project" they are working on.
+On the other hand having automatic commit may be helpful when working on smaller "projects" however the timing of the commit may lead to less understandable or inconsistent data when committed at the wrong time.
+
+Tracking multiple files during each commit is much needed and helpful as it prevents the annoyance created by manually having to commit each file that has been altered from the previous commit.
+
+Using git diff to find the differences between two commits can be very helpful as it clearly indicates the lines that have been deleted and added.
+
+Using git boosts the confidence of the developer a lot. If the developer is worried that while he/she does not know how to implement a functionality but has to try out a certain logic/algorithm, the developer can
+now easily do so without worries as he/she can revert back to an older version which was working fine.
