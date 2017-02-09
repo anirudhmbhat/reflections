@@ -1,3 +1,17 @@
 I learnt how to initialize a git repository and then use git status to check how many untracked files are there. I feel like git status will be a very useful command.
 
 The staging area plays an important role. It acts as an intermediate area which provides the user additional control over which files are to be tracked and in turn committed.
+
+Learnt a little of committing individual files from the staging area to the repository...neat stuff
+
+Branches are very helpful when a certain experimental feature is to be tested.
+git branch new_branch_name
+git checkout branch_name
+
+Visualization with diagrams gave insight about the architectural details of how branches and commits work, reachability of the commits. It also provided information on the command to create a branch and checkout a
+commit in one command(git checkout -b new_branch_name).
+
+Merging two branches can be very helpful while collaborating with a team/group of coworkers.
+git checkout master/branch_name
+git merge 1st_branch 2nd_branch
+git show commit_id        It is an easier way to perform git diff commit_id commit_id_parent
