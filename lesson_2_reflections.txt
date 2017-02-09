@@ -1,0 +1,3 @@
+I learnt how to initialize a git repository and then use git status to check how many untracked files are there. I feel like git status will be a very useful command.
+
+The staging area plays an important role. It acts as an intermediate area which provides the user additional control over which files are to be tracked and in turn committed.
