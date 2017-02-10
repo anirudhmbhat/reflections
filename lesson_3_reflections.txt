@@ -1,1 +1,6 @@
 This is a test file where this line is added from http://github.com and not will be pulled into the local repository.
+
+
+Use git remote  to view the existing remotes on the local directory. Using these remotes we can either push to the remote repository(github) or we can pull from the remote repository(github).
+
+Use git remote add remote_name link_to_remote_repository    to create a remote. Generally if only one remote exists then it is called origin.
